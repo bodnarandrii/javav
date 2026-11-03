@@ -4,4 +4,7 @@ public abstract class Figure {
     public abstract double getArea();
     public abstract double getPerimeter();
     public abstract String getName();
+    public String geeetname(){
+        return "stud";
+    }
 }
